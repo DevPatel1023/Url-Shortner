@@ -1,0 +1,19 @@
+body {
+    background-color: #202432;
+  }
+  
+
+  
+  .li-item-s a {
+    color: #a0b8d0;
+    font-size: 1.1rem;
+    transition: color 0.3s ease, font-size 0.4s ease;
+    margin-left: 50px;
+  }
+  
+  .li-item-s a:hover {
+    color: rgb(200, 229, 37);
+    font-size: 1.11rem;
+    text-decoration: underline;
+  }
+  
