@@ -141,5 +141,5 @@ This project is licensed under the MIT License.
 
 If you have any questions or suggestions, feel free to reach out.
 
-- **Email:** [your-email@example.com](mailto:devp4143@gmail.com)
+- **Email:** [devp4143@gmail.com](mailto:devp4143@gmail.com)
 - **GitHub:** [DevPatel1023](https://github.com/DevPatel1023)
