@@ -2,6 +2,9 @@
 
 A URL shortener application built using the MERN stack (MongoDB, Express.js, React, Node.js).
 
+![frontpage](https://github.com/user-attachments/assets/e21f8e02-f30d-41a3-8795-9cbc67f4d6ff)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
