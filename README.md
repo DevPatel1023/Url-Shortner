@@ -2,6 +2,9 @@
 
 A URL shortener application built using the MERN stack (MongoDB, Express.js, React, Node.js).
 
+![frontpage](https://github.com/user-attachments/assets/e21f8e02-f30d-41a3-8795-9cbc67f4d6ff)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -138,5 +141,5 @@ This project is licensed under the MIT License.
 
 If you have any questions or suggestions, feel free to reach out.
 
-- **Email:** [your-email@example.com](mailto:devp4143@gmail.com)
+- **Email:** [devp4143@gmail.com](mailto:devp4143@gmail.com)
 - **GitHub:** [DevPatel1023](https://github.com/DevPatel1023)
