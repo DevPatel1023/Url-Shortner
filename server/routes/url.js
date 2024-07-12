@@ -6,6 +6,9 @@ const { BASE_URL } = process.env;
 // POST method for giving the original URL
 router.post('/shortner', async (req, res) => {
   const { originalUrl } = req.body;
+  if (!originalUrl) {
+    return res.status(400).json({ error: 'URL is required' });
+  }
   try {
     let url = await Url.findOne({ originalUrl });
 
