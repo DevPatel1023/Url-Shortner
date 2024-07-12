@@ -5,6 +5,7 @@ import UrlShortner from './components/UrlShortener';
 import About from './components/About';
 import Login from './components/Login';
 import NoPage from './components/NoPage';
+import Footer from './components/footer';
 import './App.css';
 
 const App = () => {
@@ -19,6 +20,7 @@ const App = () => {
           <Route path="*" element={<NoPage />} />
         </Routes>
       </Router>
+      <Footer />
     </div>
   );
 };
