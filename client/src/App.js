@@ -7,6 +7,7 @@ import Login from './components/Login';
 import NoPage from './components/NoPage';
 import Footer from './components/footer';
 import './App.css';
+import 'bootstrap-icons/font/bootstrap-icons.css';
 
 const App = () => {
   return (

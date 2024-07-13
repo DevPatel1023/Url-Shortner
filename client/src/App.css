@@ -27,3 +27,20 @@ footer {
   margin: 0 0.5rem;
   color: #ffffff;
 }
+.alert {
+  position: fixed; 
+  top: 10px; 
+  left: 50%; 
+  transform: translateX(-50%); 
+  background-color: #28a745;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  z-index: 1000;
+  display: none; 
+  font-size: 1rem; 
+}
+
+.alert.visible {
+  display: block; 
+}
